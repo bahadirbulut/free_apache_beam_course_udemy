@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Python_Notebook/Lecture18_GooglePubSub/ml-latest/
+/Python_Notebook/Lecture18_GooglePubSub/bahadir-sandbox-8c3f7daa0302.json
